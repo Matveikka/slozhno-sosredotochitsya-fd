@@ -99,7 +99,7 @@
 }
 
 .header__theme-menu-button_active {
-  border: 1px solid var(--header-2-color);
+  outline: 1px solid var(--header-2-color);
   pointer-events: none;
 }
 
@@ -108,7 +108,7 @@
 }
 
 .header__theme-menu-button:hover {
-  border: 1px solid var(--accent-color-opacity);
+  outline: 1px solid var(--accent-color-opacity);
 }
 
 .header__text {
