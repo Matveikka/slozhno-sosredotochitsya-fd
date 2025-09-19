@@ -4,8 +4,10 @@
   --background-color: #0b013d;
   --accent-color: #ff0070;
   --accent-color-opacity: rgba(255, 0, 111, 0.4);
+  --link-color: #F1B2CE;
   --decoration-color: #ff0070;
   --text-color: #f1b2ce;
+  --text-shadow-footer: #ff0070;
   --header-title-color: #db00ff;
   --header-button-color: #ff0070;
   --header-subtitle-color: var(--background-color);
